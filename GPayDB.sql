@@ -1,5 +1,5 @@
-
-USE GooglePayDB;
+CREATE DATABASE GooglePayDB1
+USE GooglePayDB1;
 CREATE TABLE Users (
     user_id INT PRIMARY KEY AUTO_INCREMENT,
     first_name VARCHAR(50) NOT NULL,
